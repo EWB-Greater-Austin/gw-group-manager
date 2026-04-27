@@ -6,8 +6,8 @@ var SUBSCRIPTIONS_QUESTION_TITLE = 'Which lists do you want to be subscribed to?
 // exact strings as its checkbox option labels — that is how a tick maps to
 // a group.
 var GROUPS = {
-  'EWB General': 'ewbgeneral@ewbgreateraustin.org',
-  'Newsletter':  'newsletter@ewbgreateraustin.org'
+  '(👷 EWB General) Internal communications for EWBGA members, meetings, socials, etc.': 'ewbgeneral@ewbgreateraustin.org',
+  '(🌍 Newsletter) Quarterly updates on everything the chapter has been doing!':          'newsletter@ewbgreateraustin.org'
 };
 
 // Entry point — runs on each form submission via the installable trigger.
