@@ -1,6 +1,6 @@
 var FORM_ID                      = '1glQ5poNzEwmCqN5yx2njjYz6GeCalsEmdy_Z1EHLW3U';
 var EMAIL_QUESTION_TITLE         = 'Email address';
-var SUBSCRIPTIONS_QUESTION_TITLE = 'Which lists do you want to be subscribed to?';
+var SUBSCRIPTIONS_QUESTION_TITLE = 'What do you want receive emails about? (Leave all boxes unchecked if you wish to completely unsubscribe from all EWBGA emails)';
 
 // Form checkbox option label → Google Group email. The form must use these
 // exact strings as its checkbox option labels — that is how a tick maps to
