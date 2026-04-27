@@ -1,7 +1,19 @@
 {
   "timeZone": "America/Chicago",
   "dependencies": {
+    "enabledAdvancedServices": [
+      {
+        "userSymbol": "AdminDirectory",
+        "version": "directory_v1",
+        "serviceId": "admin"
+      }
+    ]
   },
+  "oauthScopes": [
+    "https://www.googleapis.com/auth/admin.directory.group.member",
+    "https://www.googleapis.com/auth/forms",
+    "https://www.googleapis.com/auth/script.scriptapp"
+  ],
   "exceptionLogging": "STACKDRIVER",
   "runtimeVersion": "V8"
 }
